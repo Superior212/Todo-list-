@@ -1,0 +1,6 @@
+#main{
+    border-radius: 30px;
+background: gray ;
+box-shadow: inset 2px 3px 5px #bebebe,
+            inset 0px 0px 0px #ffffff;
+}
